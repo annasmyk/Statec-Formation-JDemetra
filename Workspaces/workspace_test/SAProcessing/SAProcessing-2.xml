@@ -431,6 +431,19 @@
     </item>
 </subset>
                             </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>3.0</double>
+    </item>
+    <item name="ls">
+        <double>3.0</double>
+    </item>
+    <item name="defcv">
+        <double>3.0</double>
+    </item>
+</subset>
+                            </item>
                             <item name="regression">
 <subset>
     <item name="outlier1">
@@ -509,6 +522,18 @@
         </subset>
     </item>
 </subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="seasonalma">
+<strings>
+    <items>Msr Msr Msr Msr Msr Msr Msr S3X3 Msr Msr Msr Msr</items>
+</strings>
+                            </item>
+                            <item name="fcasts">
+<integer>-1</integer>
                             </item>
                         </subset>
                     </item>
@@ -655,6 +680,18 @@
         </subset>
     </item>
 </subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="seasonalma">
+<strings>
+    <items>Msr Msr Msr Msr Msr Msr Msr S3X3 Msr Msr Msr Msr</items>
+</strings>
+                            </item>
+                            <item name="fcasts">
+<integer>-1</integer>
                             </item>
                         </subset>
                     </item>
